@@ -10,8 +10,8 @@
 
 # Hi, I'm Rafael Kataoka
 
-- 🧠 Software Engineer focused on back-end development using Java and Spring Boot.
-- 💡 I'm curious about how artificial intelligence is changing software development.
+- Software Engineer focused on back-end development using Java and Spring Boot.
+- I'm curious about how artificial intelligence is changing software development.
 
 ``` Java
 public class Rafael extends Developer {
@@ -32,7 +32,7 @@ public class Rafael extends Developer {
 
 <td valign="top" width="100%">
 
-### ✔️ Have Knowledge (Basic to Intermediate)
+###  Have Knowledge (Basic to Intermediate)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -51,7 +51,7 @@ public class Rafael extends Developer {
 
 <div align="center">
 
-### 🌐 Connect with me
+### Connect with me
 
 <br/>
 
